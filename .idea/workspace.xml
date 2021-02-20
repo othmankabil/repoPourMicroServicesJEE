@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5596e0db-7af8-4be3-88d2-d86450394f6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\dell\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m6CWC5KDjOfy0udnLPfzzrtSdb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.FpApplication">
+    <configuration name="FpApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.fp.FpApplication" />
+      <module name="fp (1)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.auth.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="billing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.billing.BillingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fp (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.fp.FpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FpApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5596e0db-7af8-4be3-88d2-d86450394f6d" name="Default Changelist" comment="" />
+      <created>1608804684024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608804684024</updated>
+      <workItem from="1608804685111" duration="273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1480" height="212" key="GridCell.Tab.0.bottom" timestamp="1608804962930">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608804962930" />
+    <state width="1480" height="212" key="GridCell.Tab.0.center" timestamp="1608804962930">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="212" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608804962930" />
+    <state width="1480" height="212" key="GridCell.Tab.0.left" timestamp="1608804962930">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="212" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608804962930" />
+    <state width="1480" height="212" key="GridCell.Tab.0.right" timestamp="1608804962930">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608804962930" />
+    <state width="1480" height="212" key="GridCell.Tab.1.bottom" timestamp="1608804962846">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="212" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608804962846" />
+    <state width="1480" height="212" key="GridCell.Tab.1.center" timestamp="1608804962845">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="212" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1608804962845" />
+    <state width="1480" height="212" key="GridCell.Tab.1.left" timestamp="1608804962845">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="212" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1608804962845" />
+    <state width="1480" height="212" key="GridCell.Tab.1.right" timestamp="1608804962845">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1480" height="212" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608804962845" />
+  </component>
+</project>

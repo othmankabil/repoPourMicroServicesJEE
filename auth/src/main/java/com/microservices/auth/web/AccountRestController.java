@@ -14,7 +14,7 @@ public class AccountRestController {
     @Autowired
    private  AccountService accountService;
     @GetMapping(path = "/users")
-    @PreAuthorize("hasAuthority('USER')")
+    @PreAuthorize("hasAuthority('ADMIN')")
     public List<AppUser> appUsers() {
         return accountService.allUsers();
     }
